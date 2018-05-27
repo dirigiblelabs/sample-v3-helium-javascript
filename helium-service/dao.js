@@ -10,7 +10,7 @@ var dao = factory.create({
 			'required': true
 		},		{
 			'name':  'key',
-			'column': 'HELIUM_ISBN',
+			'column': 'HELIUM_KEY',
 			'type':'VARCHAR',
 			'id': false,
 			'required': false
